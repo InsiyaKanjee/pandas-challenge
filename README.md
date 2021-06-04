@@ -1,69 +1,79 @@
-# pandas-challenge
+# Hereos of Pymoli (pandas-challenge)
 
-Hereos of Pymoli
+The Jupyter file compiles the code to display the following results from the purchase_data.csv (located in the resources folder) and summuraizes observable trends at the end.
 
-The Jupyter file compiles the code to display the following results from the purchase_data.csv (located in the resources folder)
 
-Player Count
+**Player Count**
+
     Total Number of Players
 
-Purchasing Analysis (Total)
+**Purchasing Analysis (Total)**
+
     Number of Unique Items
     Average Purchase Price
     Total Number of Purchases
     Total Revenue
 
-Gender Demographics
+**Gender Demographics**
+
     Percentage and Count of Male Players
     Percentage and Count of Female Players
     Percentage and Count of Other / Non-Disclosed
 
-Purchasing Analysis (Gender)
+**Purchasing Analysis (Gender)**
 
-The below each broken by gender
-    Purchase Count
-    Average Purchase Price
-    Total Purchase Value
-    Average Purchase Total per Person by Gender
+    The below each broken by gender
 
-Age Demographics
+        Purchase Count
+        Average Purchase Price
+        Total Purchase Value
+        Average Purchase Total per Person by Gender
 
-The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
-    Purchase Count
-    Average Purchase Price
-    Total Purchase Value
-    Average Purchase Total per Person by Age Group
+**Age Demographics**
 
-Purchasing Analysis (age)
+    The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
 
-The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
-    Purchase Count
-    Average Purchase Price
-    Total Purchase Value
-    Average Purchase Total per Person by Age
+        Purchase Count
+        Average Purchase Price
+        Total Purchase Value
+        Average Purchase Total per Person by Age Group
 
-Top Spenders
+**Purchasing Analysis (age)**
 
-Identified the the top 5 spenders in the game by total purchase value, then listed (in a table):
-    SN
-    Purchase Count
-    Average Purchase Price
-    Total Purchase Value
+    The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
 
-Most Popular Items
+        Purchase Count
+        Average Purchase Price
+        Total Purchase Value
+        Average Purchase Total per Person by Age
 
-Identified the 5 most popular items by purchase count, then listed (in a table):
-    Item ID
-    Item Name
-    Purchase Count
-    Item Price
-    Total Purchase Value
+**Top Spenders**
 
-Most Profitable Items
+    Identified the the top 5 spenders in the game by total purchase value, then listed (in a table):
 
-Identified the 5 most profitable items by total purchase value, then listed (in a table):
-    Item ID
-    Item Name
-    Purchase Count
-    Item Price
-    Total Purchase Value
+        SN
+        Purchase Count
+        Average Purchase Price
+        Total Purchase Value
+
+**Most Popular Items**
+
+    Identified the 5 most popular items by purchase count, then listed (in a table):
+
+        Item ID
+        Item Name
+        Purchase Count
+        Item Price
+        Total Purchase Value
+
+**Most Profitable Item**
+
+    Identified the 5 most profitable items by total purchase value, then listed (in a table):
+
+        Item ID
+        Item Name
+        Purchase Count
+        Item Price
+        Total Purchase Value
+        
+**Observable Trends**
